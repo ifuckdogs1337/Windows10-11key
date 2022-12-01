@@ -1,5 +1,5 @@
 # Windows10-11key
-Removes the "activate windows" watermark by giving you a key or something idk how this works;
+Activates your windows for free;
 
 I do not own this project, this is an archive of the working version;
 
